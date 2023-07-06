@@ -15,7 +15,7 @@ Empezando 🚀
 Copia el link enviado y hazlo correr desde la pantalla, el root es pages/index 📋
 
 
-Sistema Operativo (por ejemplo, Ubuntu 20.04, Windows 10)
+Sistema Operativo (Ubuntu 20.04)
 Lenguaje de programación (html)
 Framework (Ruby on rails)
 Base de datos ( PostgreSQL 14)
@@ -25,8 +25,7 @@ https://howartsrails-a6f5269c54a2.herokuapp.com/
 
 
 Construido Con 🛠️
-Explica qué tecnologías usaste para construir este proyecto. Aquí algunos ejemplos:
-
+Tecnologias utilizadas
 Ruby - El lenguaje utilizado
 Ruby on Rails - El framework web utilizado
 Ruby gems - Gestión de dependencias
